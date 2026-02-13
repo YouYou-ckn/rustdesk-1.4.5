@@ -1,3 +1,4 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
-	url = https://github.com/YouYou-ckn/hbb_common-p
+	url = https://github.com/YouYou-ckn/hbb_common-p.git
+	branch = master
